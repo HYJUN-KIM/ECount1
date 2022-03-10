@@ -1,0 +1,8 @@
+C:\ECount\Labs\BasicFramework\Ex04_RefType\obj\Debug\Ex04_RefType.csproj.AssemblyReference.cache
+C:\ECount\Labs\BasicFramework\Ex04_RefType\obj\Debug\Ex04_RefType.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\BasicFramework\Ex04_RefType\obj\Debug\Ex04_RefType.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\BasicFramework\Ex04_RefType\bin\Debug\Ex04_RefType.exe.config
+C:\ECount\Labs\BasicFramework\Ex04_RefType\bin\Debug\Ex04_RefType.exe
+C:\ECount\Labs\BasicFramework\Ex04_RefType\bin\Debug\Ex04_RefType.pdb
+C:\ECount\Labs\BasicFramework\Ex04_RefType\obj\Debug\Ex04_RefType.exe
+C:\ECount\Labs\BasicFramework\Ex04_RefType\obj\Debug\Ex04_RefType.pdb

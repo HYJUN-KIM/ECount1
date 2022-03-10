@@ -1,0 +1,8 @@
+C:\ECount\Labs\BasicFramework\Ex20_Array\bin\Debug\Ex20_Array.exe.config
+C:\ECount\Labs\BasicFramework\Ex20_Array\bin\Debug\Ex20_Array.exe
+C:\ECount\Labs\BasicFramework\Ex20_Array\bin\Debug\Ex20_Array.pdb
+C:\ECount\Labs\BasicFramework\Ex20_Array\obj\Debug\Ex20_Array.csproj.AssemblyReference.cache
+C:\ECount\Labs\BasicFramework\Ex20_Array\obj\Debug\Ex20_Array.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\BasicFramework\Ex20_Array\obj\Debug\Ex20_Array.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\BasicFramework\Ex20_Array\obj\Debug\Ex20_Array.exe
+C:\ECount\Labs\BasicFramework\Ex20_Array\obj\Debug\Ex20_Array.pdb

@@ -1,0 +1,8 @@
+C:\ECount\Labs\BasicFramework\Array_Lotto_beginner\bin\Debug\Array_Lotto_beginner.exe.config
+C:\ECount\Labs\BasicFramework\Array_Lotto_beginner\bin\Debug\Array_Lotto_beginner.exe
+C:\ECount\Labs\BasicFramework\Array_Lotto_beginner\bin\Debug\Array_Lotto_beginner.pdb
+C:\ECount\Labs\BasicFramework\Array_Lotto_beginner\obj\Debug\Array_Lotto_beginner.csproj.AssemblyReference.cache
+C:\ECount\Labs\BasicFramework\Array_Lotto_beginner\obj\Debug\Array_Lotto_beginner.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\BasicFramework\Array_Lotto_beginner\obj\Debug\Array_Lotto_beginner.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\BasicFramework\Array_Lotto_beginner\obj\Debug\Array_Lotto_beginner.exe
+C:\ECount\Labs\BasicFramework\Array_Lotto_beginner\obj\Debug\Array_Lotto_beginner.pdb

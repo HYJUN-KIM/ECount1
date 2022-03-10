@@ -1,0 +1,8 @@
+C:\ECount\Labs\BasicFramework\todaytest0302\obj\Debug\todaytest0302.csproj.AssemblyReference.cache
+C:\ECount\Labs\BasicFramework\todaytest0302\obj\Debug\todaytest0302.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\BasicFramework\todaytest0302\obj\Debug\todaytest0302.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\BasicFramework\todaytest0302\bin\Debug\todaytest0302.exe.config
+C:\ECount\Labs\BasicFramework\todaytest0302\bin\Debug\todaytest0302.exe
+C:\ECount\Labs\BasicFramework\todaytest0302\bin\Debug\todaytest0302.pdb
+C:\ECount\Labs\BasicFramework\todaytest0302\obj\Debug\todaytest0302.exe
+C:\ECount\Labs\BasicFramework\todaytest0302\obj\Debug\todaytest0302.pdb

@@ -1,0 +1,8 @@
+C:\ECount\Labs\BasicFramework\test0228\bin\Debug\test0228.exe.config
+C:\ECount\Labs\BasicFramework\test0228\bin\Debug\test0228.exe
+C:\ECount\Labs\BasicFramework\test0228\bin\Debug\test0228.pdb
+C:\ECount\Labs\BasicFramework\test0228\obj\Debug\test0228.csproj.AssemblyReference.cache
+C:\ECount\Labs\BasicFramework\test0228\obj\Debug\test0228.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\BasicFramework\test0228\obj\Debug\test0228.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\BasicFramework\test0228\obj\Debug\test0228.exe
+C:\ECount\Labs\BasicFramework\test0228\obj\Debug\test0228.pdb

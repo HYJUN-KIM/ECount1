@@ -1,0 +1,8 @@
+C:\ECount\Labs\BasicFramework\Ex21_Object_Array\bin\Debug\Ex21_Object_Array.exe.config
+C:\ECount\Labs\BasicFramework\Ex21_Object_Array\bin\Debug\Ex21_Object_Array.exe
+C:\ECount\Labs\BasicFramework\Ex21_Object_Array\bin\Debug\Ex21_Object_Array.pdb
+C:\ECount\Labs\BasicFramework\Ex21_Object_Array\obj\Debug\Ex21_Object_Array.csproj.AssemblyReference.cache
+C:\ECount\Labs\BasicFramework\Ex21_Object_Array\obj\Debug\Ex21_Object_Array.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\BasicFramework\Ex21_Object_Array\obj\Debug\Ex21_Object_Array.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\BasicFramework\Ex21_Object_Array\obj\Debug\Ex21_Object_Array.exe
+C:\ECount\Labs\BasicFramework\Ex21_Object_Array\obj\Debug\Ex21_Object_Array.pdb

@@ -1,0 +1,11 @@
+C:\ECount\Labs\BasicFramework\Ex02_Basic\bin\Debug\Ex02_Basic.exe.config
+C:\ECount\Labs\BasicFramework\Ex02_Basic\bin\Debug\Ex02_Basic.exe
+C:\ECount\Labs\BasicFramework\Ex02_Basic\bin\Debug\Ex02_Basic.pdb
+C:\ECount\Labs\BasicFramework\Ex02_Basic\obj\Debug\Ex02_Basic.csproj.AssemblyReference.cache
+C:\ECount\Labs\BasicFramework\Ex02_Basic\obj\Debug\Ex02_Basic.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\BasicFramework\Ex02_Basic\obj\Debug\Ex02_Basic.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\BasicFramework\Ex02_Basic\obj\Debug\Ex02_Basic.exe
+C:\ECount\Labs\BasicFramework\Ex02_Basic\obj\Debug\Ex02_Basic.pdb
+C:\ECount\Labs\BasicFramework\Ex02_Basic\bin\Debug\Ex03_EmpLib.dll
+C:\ECount\Labs\BasicFramework\Ex02_Basic\bin\Debug\Ex03_EmpLib.pdb
+C:\ECount\Labs\BasicFramework\Ex02_Basic\obj\Debug\Ex02_Basic.csproj.CopyComplete

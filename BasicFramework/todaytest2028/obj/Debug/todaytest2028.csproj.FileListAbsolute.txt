@@ -1,0 +1,8 @@
+C:\ECount\Labs\BasicFramework\todaytest2028\bin\Debug\todaytest2028.exe.config
+C:\ECount\Labs\BasicFramework\todaytest2028\bin\Debug\todaytest2028.exe
+C:\ECount\Labs\BasicFramework\todaytest2028\bin\Debug\todaytest2028.pdb
+C:\ECount\Labs\BasicFramework\todaytest2028\obj\Debug\todaytest2028.csproj.AssemblyReference.cache
+C:\ECount\Labs\BasicFramework\todaytest2028\obj\Debug\todaytest2028.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\BasicFramework\todaytest2028\obj\Debug\todaytest2028.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\BasicFramework\todaytest2028\obj\Debug\todaytest2028.exe
+C:\ECount\Labs\BasicFramework\todaytest2028\obj\Debug\todaytest2028.pdb

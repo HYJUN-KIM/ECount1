@@ -1,0 +1,8 @@
+C:\ECount\Labs\BasicFramework\Ex08_Statement2\obj\Debug\Ex08_Statement2.csproj.AssemblyReference.cache
+C:\ECount\Labs\BasicFramework\Ex08_Statement2\obj\Debug\Ex08_Statement2.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\BasicFramework\Ex08_Statement2\obj\Debug\Ex08_Statement2.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\BasicFramework\Ex08_Statement2\bin\Debug\Ex08_Statement2.exe.config
+C:\ECount\Labs\BasicFramework\Ex08_Statement2\bin\Debug\Ex08_Statement2.exe
+C:\ECount\Labs\BasicFramework\Ex08_Statement2\bin\Debug\Ex08_Statement2.pdb
+C:\ECount\Labs\BasicFramework\Ex08_Statement2\obj\Debug\Ex08_Statement2.exe
+C:\ECount\Labs\BasicFramework\Ex08_Statement2\obj\Debug\Ex08_Statement2.pdb
