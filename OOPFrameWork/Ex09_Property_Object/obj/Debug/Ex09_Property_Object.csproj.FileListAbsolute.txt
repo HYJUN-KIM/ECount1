@@ -1,0 +1,8 @@
+C:\ECount\Labs\OOPFrameWork\Ex09_Property_Object\bin\Debug\Ex09_Property_Object.exe.config
+C:\ECount\Labs\OOPFrameWork\Ex09_Property_Object\bin\Debug\Ex09_Property_Object.exe
+C:\ECount\Labs\OOPFrameWork\Ex09_Property_Object\bin\Debug\Ex09_Property_Object.pdb
+C:\ECount\Labs\OOPFrameWork\Ex09_Property_Object\obj\Debug\Ex09_Property_Object.csproj.AssemblyReference.cache
+C:\ECount\Labs\OOPFrameWork\Ex09_Property_Object\obj\Debug\Ex09_Property_Object.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\OOPFrameWork\Ex09_Property_Object\obj\Debug\Ex09_Property_Object.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\OOPFrameWork\Ex09_Property_Object\obj\Debug\Ex09_Property_Object.exe
+C:\ECount\Labs\OOPFrameWork\Ex09_Property_Object\obj\Debug\Ex09_Property_Object.pdb

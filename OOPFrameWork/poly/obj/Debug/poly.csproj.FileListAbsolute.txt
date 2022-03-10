@@ -1,0 +1,8 @@
+C:\ECount\Labs\OOPFrameWork\poly\bin\Debug\poly.exe.config
+C:\ECount\Labs\OOPFrameWork\poly\bin\Debug\poly.exe
+C:\ECount\Labs\OOPFrameWork\poly\bin\Debug\poly.pdb
+C:\ECount\Labs\OOPFrameWork\poly\obj\Debug\poly.csproj.AssemblyReference.cache
+C:\ECount\Labs\OOPFrameWork\poly\obj\Debug\poly.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\OOPFrameWork\poly\obj\Debug\poly.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\OOPFrameWork\poly\obj\Debug\poly.exe
+C:\ECount\Labs\OOPFrameWork\poly\obj\Debug\poly.pdb

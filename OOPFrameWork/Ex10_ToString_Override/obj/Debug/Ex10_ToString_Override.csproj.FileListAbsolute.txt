@@ -1,0 +1,8 @@
+C:\ECount\Labs\OOPFrameWork\Ex10_ToString_Override\bin\Debug\Ex10_ToString_Override.exe.config
+C:\ECount\Labs\OOPFrameWork\Ex10_ToString_Override\bin\Debug\Ex10_ToString_Override.exe
+C:\ECount\Labs\OOPFrameWork\Ex10_ToString_Override\bin\Debug\Ex10_ToString_Override.pdb
+C:\ECount\Labs\OOPFrameWork\Ex10_ToString_Override\obj\Debug\Ex10_ToString_Override.csproj.AssemblyReference.cache
+C:\ECount\Labs\OOPFrameWork\Ex10_ToString_Override\obj\Debug\Ex10_ToString_Override.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\OOPFrameWork\Ex10_ToString_Override\obj\Debug\Ex10_ToString_Override.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\OOPFrameWork\Ex10_ToString_Override\obj\Debug\Ex10_ToString_Override.exe
+C:\ECount\Labs\OOPFrameWork\Ex10_ToString_Override\obj\Debug\Ex10_ToString_Override.pdb

@@ -1,0 +1,8 @@
+C:\ECount\Labs\OOPFrameWork\Ex13_abclass\bin\Debug\Ex13_abclass.exe.config
+C:\ECount\Labs\OOPFrameWork\Ex13_abclass\bin\Debug\Ex13_abclass.exe
+C:\ECount\Labs\OOPFrameWork\Ex13_abclass\bin\Debug\Ex13_abclass.pdb
+C:\ECount\Labs\OOPFrameWork\Ex13_abclass\obj\Debug\Ex13_abclass.csproj.AssemblyReference.cache
+C:\ECount\Labs\OOPFrameWork\Ex13_abclass\obj\Debug\Ex13_abclass.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\OOPFrameWork\Ex13_abclass\obj\Debug\Ex13_abclass.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\OOPFrameWork\Ex13_abclass\obj\Debug\Ex13_abclass.exe
+C:\ECount\Labs\OOPFrameWork\Ex13_abclass\obj\Debug\Ex13_abclass.pdb

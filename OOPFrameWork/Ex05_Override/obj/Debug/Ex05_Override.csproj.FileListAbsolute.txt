@@ -1,0 +1,8 @@
+C:\ECount\Labs\OOPFrameWork\Ex05_Override\bin\Debug\Ex05_Override.exe.config
+C:\ECount\Labs\OOPFrameWork\Ex05_Override\bin\Debug\Ex05_Override.exe
+C:\ECount\Labs\OOPFrameWork\Ex05_Override\bin\Debug\Ex05_Override.pdb
+C:\ECount\Labs\OOPFrameWork\Ex05_Override\obj\Debug\Ex05_Override.csproj.AssemblyReference.cache
+C:\ECount\Labs\OOPFrameWork\Ex05_Override\obj\Debug\Ex05_Override.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\OOPFrameWork\Ex05_Override\obj\Debug\Ex05_Override.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\OOPFrameWork\Ex05_Override\obj\Debug\Ex05_Override.exe
+C:\ECount\Labs\OOPFrameWork\Ex05_Override\obj\Debug\Ex05_Override.pdb

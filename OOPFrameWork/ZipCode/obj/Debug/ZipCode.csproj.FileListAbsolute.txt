@@ -1,0 +1,8 @@
+C:\ECount\Labs\OOPFrameWork\ZipCode\bin\Debug\ZipCode.exe.config
+C:\ECount\Labs\OOPFrameWork\ZipCode\bin\Debug\ZipCode.exe
+C:\ECount\Labs\OOPFrameWork\ZipCode\bin\Debug\ZipCode.pdb
+C:\ECount\Labs\OOPFrameWork\ZipCode\obj\Debug\ZipCode.csproj.AssemblyReference.cache
+C:\ECount\Labs\OOPFrameWork\ZipCode\obj\Debug\ZipCode.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\OOPFrameWork\ZipCode\obj\Debug\ZipCode.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\OOPFrameWork\ZipCode\obj\Debug\ZipCode.exe
+C:\ECount\Labs\OOPFrameWork\ZipCode\obj\Debug\ZipCode.pdb
