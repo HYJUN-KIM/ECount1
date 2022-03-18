@@ -1,0 +1,8 @@
+C:\ECount\Labs\FrameworkETC\ex11_poly\bin\Debug\ex11_poly.exe.config
+C:\ECount\Labs\FrameworkETC\ex11_poly\bin\Debug\ex11_poly.exe
+C:\ECount\Labs\FrameworkETC\ex11_poly\bin\Debug\ex11_poly.pdb
+C:\ECount\Labs\FrameworkETC\ex11_poly\obj\Debug\ex11_poly.csproj.AssemblyReference.cache
+C:\ECount\Labs\FrameworkETC\ex11_poly\obj\Debug\ex11_poly.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\FrameworkETC\ex11_poly\obj\Debug\ex11_poly.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\FrameworkETC\ex11_poly\obj\Debug\ex11_poly.exe
+C:\ECount\Labs\FrameworkETC\ex11_poly\obj\Debug\ex11_poly.pdb
